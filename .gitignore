@@ -1,0 +1,4 @@
+*
+!.gitignore
+!mappings.txt
+!mc_stats_converter.py
