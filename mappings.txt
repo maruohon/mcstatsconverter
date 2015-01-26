@@ -265,7 +265,7 @@
 347 = minecraft:clock
 348 = minecraft:glowstone_dust
 349 = minecraft:fish
-350 = minecraft:cooked_fished
+350 = minecraft:cooked_fish
 351 = minecraft:dye
 352 = minecraft:bone
 353 = minecraft:sugar
